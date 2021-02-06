@@ -34,3 +34,5 @@ const allowScroll = function () {
 		.querySelector("html")
 		.style.setProperty("overflow", "auto", "important");
 };
+
+allowScroll();
